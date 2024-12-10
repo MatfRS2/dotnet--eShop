@@ -491,3 +491,5 @@ $RECYCLE.BIN/
 /playwright/.auth/
 /user.json
 .azure
+/src/ClientApp/Services/Basket/Protos/Basket.cs
+/src/ClientApp/Services/Basket/Protos/BasketGrpc.cs
