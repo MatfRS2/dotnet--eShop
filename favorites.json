@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "name": "App.razor",
+      "path": "src\\WebApp\\Components\\App.razor"
+    },
+    {
+      "name": "GlobalSuppressions.cs",
+      "path": "src\\ClientApp\\GlobalSuppressions.cs"
+    }
+  ]
+}
